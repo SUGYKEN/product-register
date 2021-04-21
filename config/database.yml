@@ -80,7 +80,7 @@ test:
 # You can use this database configuration with:
 #
 production:
- url: postgres://vmjufemcpxttsy:77413481b7ae26d5897681c09c5dd525f5bbc26da99877715494136e7f7d1e9d@ec2-18-215-111-67.compute-1.amazonaws.com:5432/deo8savt9g0vlj
+ url: postgres://lmcqjcrcbpcdzc:877d4d1f6d7da21569d0d4688203160e0d78b0273ad7abd5bbda6718f9b8b899@ec2-34-200-94-86.compute-1.amazonaws.com:5432/dpsq8s9qasjq9
 #
 # production:
   # π
